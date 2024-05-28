@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @navkirankaur1029
+- 👋 Hi, I’m Navkiran
 - 👀 I’m interested  in learning more about IT support and data analysis.
 - 🌱 I’m currently learning how to use GitHub and improve my skills in Python
 - 💞️ I’m looking to collaborate on coding projects and learning more about data visualization.
